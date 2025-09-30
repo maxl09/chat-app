@@ -1,7 +1,14 @@
 @import "tailwindcss";
 @layer utilities;
-@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+@plugin "daisyui";
 
 * {
-  font-family: "Libre Franklin", sans-serif;
+  font-family: "Onest", sans-serif;
+}
+
+/* Firefox */
+.my-scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(137, 130, 130, 0.3) transparent;
 }

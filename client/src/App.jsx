@@ -5,10 +5,12 @@ import HomePage from './pages/HomePage'
 import LoginPage from './pages/LoginPage'
 import SignupPage from './pages/SignupPage'
 import ProfilePage from './pages/ProfilePage'
+import Header from './components/Header'
 
 const App = () => {
   return (
-    <div className='bg-black'>
+    <div className='bg-[#232227] text-white'>
+      <Header />
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='/login' element={<LoginPage />} />
