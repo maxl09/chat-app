@@ -32,7 +32,7 @@ const ChatContainer = () => {
                         Obi-Wan Kenobi
                         <time className="text-xs opacity-50">12:45</time>
                     </div>
-                    <div className="chat-bubble bg-[#262529] my-1 w-[70%] rounded-[15px] px-3 py-2">
+                    <div className="chat-bubble bg-gray-700/60 my-1 w-[60%] rounded-[15px] px-3 py-2">
                         <p className="text-[15px]">
                             Awesome, thanks for handling that so quickly 🙌. I’ll update the client during the call.
                             Let’s make sure we also assign someone to monitor the logs for the next few days just
@@ -54,7 +54,7 @@ const ChatContainer = () => {
                         Anakin
                         <time className="text-xs opacity-50">12:46</time>
                     </div>
-                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[70%] my-1 px-3 py-2">
+                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[60%] my-1 px-3 py-2">
                         <p className="text-[15px]">
                             Awesome, thanks for handling that so quickly 🙌. I’ll update the client during the call.
                             Let’s make sure we also assign someone to monitor the logs for the next few days just
@@ -76,7 +76,7 @@ const ChatContainer = () => {
                         Obi-Wan Kenobi
                         <time className="text-xs opacity-50">12:45</time>
                     </div>
-                    <div className="chat-bubble bg-[#262529] my-1 w-[70%] rounded-[15px] px-3 py-2">
+                    <div className="chat-bubble bg-gray-700/60 my-1 w-[60%] rounded-[15px] px-3 py-2">
                         <p className="text-[15px]">
                             Awesome, thanks for handling that so quickly 🙌. I’ll update the client during the call.
                             Let’s make sure we also assign someone to monitor the logs for the next few days just
@@ -98,7 +98,7 @@ const ChatContainer = () => {
                         Anakin
                         <time className="text-xs opacity-50">12:46</time>
                     </div>
-                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[70%] my-1 px-3 py-2">
+                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[60%] my-1 px-3 py-2">
                         <p className="text-[15px]">
                             Awesome, thanks for handling that so quickly 🙌. I’ll update the client during the call.
                             Let’s make sure we also assign someone to monitor the logs for the next few days just
@@ -120,7 +120,7 @@ const ChatContainer = () => {
                         Anakin
                         <time className="text-xs opacity-50">12:46</time>
                     </div>
-                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[70%] my-1 px-3 py-2">
+                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[60%] my-1 px-3 py-2">
                         <p className="text-[15px]">
                             Awesome, thanks for handling that so quickly 🙌. I’ll update the client during the call.
                             Let’s make sure we also assign someone to monitor the logs for the next few days just
@@ -142,7 +142,7 @@ const ChatContainer = () => {
                         Anakin
                         <time className="text-xs opacity-50">12:46</time>
                     </div>
-                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[70%] my-1 px-3 py-2">
+                    <div className="chat-bubble bg-[#0A84FE] rounded-[15px] w-[60%] my-1 px-3 py-2">
                         <p className="text-[15px]">
                             Awesome, thanks for handling that so quickly 🙌. I’ll update the client during the call.
                             Let’s make sure we also assign someone to monitor the logs for the next few days just

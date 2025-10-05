@@ -5,8 +5,8 @@ import RightSidebar from '../components/RightSidebar'
 
 const HomePage = () => {
     return (
-        <div className='w-full h-[calc(100vh-70px)] py-[10px] px-[6%] flex justify-center items-center'>
-            <div className='w-[100%] h-[100%] bg-[#18181B] rounded-[5px] flex flex-row gap-3 rounded-[20px]'>
+        <div className='w-full h-[calc(100vh-70px)] py-[10px] px-[10px] flex justify-center items-center'>
+            <div className='w-[100%] h-[100%] bg-[#18181B] rounded-[15px] flex flex-row gap-3'>
 
                 <LeftSidebar />
                 <ChatContainer />
